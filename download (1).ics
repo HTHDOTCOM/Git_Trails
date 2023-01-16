@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20230113T000433Z
+DTSTART:20230130T110000Z
+DTEND:20230130T113000Z
+SUMMARY:Akhil Papammagari + Activision
+DESCRIPTION:Please find Interview Details for Cloud DevOps Engineers - All Levels at Activision:\n\nAgenda:\n\n  \nJan 30\, 2023 | 12:00 PM - 12:30 PM Europe/Berlin (CET)  \nKING CALL\, Ana Sá   \n\n\n  \n\n\nJob Description:\n\nhttps://activision.wd1.myworkdayjobs.com/King_External_Careers/job/Barcelona---King---PG/Cloud-DevOps-Engineers---All-Levels_R019082\n\n  \n\n\nPowered by Eightfold AI - www.eightfold.ai\n
+TRANSP:OPAQUE
+UID:a85fd0b1-40bd-427a-a90d-22c2bc505643@a85f.org
+END:VEVENT
+END:VCALENDAR
